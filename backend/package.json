@@ -1,0 +1,19 @@
+{
+  "name": "sonde",
+  "version": "1.0.0",
+  "description": "A functional approach for API integration.",
+  "main": "sonde.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "api",
+    "sonde"
+  ],
+  "author": "str1z",
+  "license": "MIT"
+}
